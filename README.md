@@ -2,9 +2,10 @@
 
 Historically tracking my list of Nextstrain-related PRs.
 
+* [ ] 2022-12-13 [nextstrain/zika | Ingest](https://github.com/nextstrain/zika/pull/24)
 * [ ] 2022-12-12 [nextstrain/ebola | Ingest](https://github.com/nextstrain/ebola/pull/6)
-* [ ] 2022-12-09 [nextstrain/auspice | fix: minor spelling errors](https://github.com/nextstrain/auspice/pull/1619)
-* [ ] 2022-12-09 [nextstrain/auspice | rename: errorBoundry to errorBoundary](https://github.com/nextstrain/auspice/pull/1620)
+* [x] 2022-12-09 [nextstrain/auspice | fix: minor spelling errors](https://github.com/nextstrain/auspice/pull/1619)
+* [x] 2022-12-09 [nextstrain/auspice | rename: errorBoundry to errorBoundary](https://github.com/nextstrain/auspice/pull/1620)
 * [ ] 2022-11-17 [nextstrain/dengue | WIP: New ingest (do not merge yet)](https://github.com/nextstrain/dengue/pull/6)
 * [x] 2022-10-26 [nextstrain/ncov | fix: select_first was called with 1 empty values](https://github.com/nextstrain/ncov/pull/1024)
 * [x] 2022-10-12 [nextstrain/zika | zstd](https://github.com/nextstrain/zika/pull/23)
